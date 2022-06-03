@@ -3,6 +3,7 @@ indigo(I)
 blue(B)
 green(G)
 yellow(Y)
+orange(O)
 red(R)
 VIBGYOR half way created!
 the rainbow is now included with a puppy while the puppy is interestingly seeting the rainbow 
