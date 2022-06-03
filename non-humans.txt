@@ -9,6 +9,5 @@ nightingale
 tailor bird
 parrot
 pegion
-lion
 eagle
  main
