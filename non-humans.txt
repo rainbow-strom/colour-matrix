@@ -19,3 +19,4 @@ The list of animals is as follows:
 lion
 tiger
 zebra buffalo
+deer
