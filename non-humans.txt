@@ -10,5 +10,9 @@ tailor bird
 parrot
 pegion
 eagle
+scruffy
+baldy
+snowfy
 zazu
 owl
+
