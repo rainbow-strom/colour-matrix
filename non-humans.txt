@@ -5,5 +5,10 @@ crow
 cuckoo
 ostrich
 butterfly
+nightingale
+tailor bird
+parrot
+pegion
 lion
 eagle
+ main
