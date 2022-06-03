@@ -13,3 +13,4 @@ lion
 eagle
 scruffy
 baldy
+snowfy
