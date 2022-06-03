@@ -1,0 +1,6 @@
+violet(V)
+indigo(I)
+blue(B)
+yellow(Y)
+red(R)
+VIBGYOR half way created!
