@@ -9,8 +9,10 @@ nightingale
 tailor bird
 parrot
 pegion
-lion
 eagle
 scruffy
 baldy
 snowfy
+zazu
+owl
+
