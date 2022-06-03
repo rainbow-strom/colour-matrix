@@ -15,4 +15,9 @@ baldy
 snowfy
 zazu
 owl
-
+The list of animals is as follows:
+lion
+zebra 
+buffalo
+deer
+monkeys
