@@ -1,0 +1,8 @@
+THe list of birds is as follows
+peacock
+sparrow
+crow
+cuckoo
+ostrich
+butterfly
+lion
